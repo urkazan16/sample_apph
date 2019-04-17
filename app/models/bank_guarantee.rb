@@ -1,0 +1,2 @@
+class BankGuarantee < ApplicationRecord
+end
